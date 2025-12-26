@@ -11,7 +11,7 @@
 ###
 
 <div align="left">
-  <img src="https://www.svgrepo.com/show/373458/aws.svg" height="50" alt="amazonwebservices logo"  />
+  <img src="https://www.svgrepo.com/show/373458/aws.svg" height="45" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
