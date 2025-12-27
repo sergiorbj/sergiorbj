@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Senior Software Engineer with over 10 years of experience building web applications from scratch.<br><br>Currently exploring how AI fits into traditional software development and building a side project, a PaaS for therapists specialized in Traditional Chinese Medicine, where they can manage patients and use AI to help with tongue diagnosis. It has around 60 customers, and it means a lot to me to see real people using it and giving feedback on something I built 🥲.</p>
+<p align="left">Senior Software Engineer with over 10 years of experience building web applications from scratch.<br><br>Currently exploring how AI fits into traditional software development and building a side project, a PaaS for therapists specialized in Traditional Chinese Medicine, where they can manage patients and use AI to help with tongue diagnosis. It has around 60 customers, and it means a lot to me to see real people using it and giving feedback on something I've built 🥲.</p>
 
 ###
 
